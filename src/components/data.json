@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "username": "Sameer Kumar",
+    "timestamp": "2 hr ago",
+    "text": "Hello Indi Rides",
+    "likes": 12,
+    "replies": [
+      {
+        "id": "1-1",
+        "username": "Ravi",
+        "timestamp": "1 hr ago",
+        "text": "Sameer are you working at rapido",
+        "likes": 5,
+        "replies": [
+          {
+            "id": "1-1-1",
+            "username": "Prateek",
+            "timestamp": "45 min ago",
+            "text": "CFBR!",
+            "likes": 3,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "username": "Divya",
+    "timestamp": "1 hr ago",
+    "text": "NIT Agartala.",
+    "likes": 9,
+    "replies": []
+  }
+]
